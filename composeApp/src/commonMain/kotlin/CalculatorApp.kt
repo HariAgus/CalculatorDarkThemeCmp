@@ -73,7 +73,7 @@ fun CalculatorApp(viewModel: CalculatorViewModel = viewModel { CalculatorViewMod
             Column(
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(16.dp),
+                    .padding(vertical = getPadding(), horizontal = 16.dp),
                 horizontalAlignment = Alignment.CenterHorizontally,
                 verticalArrangement = Arrangement.spacedBy(8.dp)
             ) {
