@@ -1,8 +1,9 @@
 # Calculator with Compose Multiplatform
 
 <p align="center">
-  <img src="https://i.postimg.cc/8zzcbVr7/Calculator-Compose-Multiplatform.png" href="">
-</p>
+  <img src="https://i.postimg.cc/j2qcq2yr/Calculator-App-Banner.jpg" href="">
+</p> 
+  [Calculator-App-Banner.jpg](https://postimg.cc/BLyHMqhh)
 
 ## Description
 
