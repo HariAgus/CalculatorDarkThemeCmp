@@ -7,7 +7,7 @@
 
 ## Description
 
-Simple Calculator App supports dark or light theme
+Simple Calculator App supports dark or light theme, also runs on Android and iOS platforms
 
 ### Dependencies
 
