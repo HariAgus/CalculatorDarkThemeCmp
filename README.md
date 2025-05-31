@@ -1,4 +1,4 @@
-# Calculator with Compose Multiplatform
+# Calculator with Compose Multiplatform (Android + iOS)
 
 <p align="center">
   <img src="https://i.postimg.cc/j2qcq2yr/Calculator-App-Banner.jpg" href="">
