@@ -7,7 +7,7 @@
 
 ## Description
 
-Simple Calculator App supports dark or light theme, also runs on Android and iOS platforms
+A simple and elegant calculator application built using Jetpack Compose Multiplatform, supporting both Android and iOS platforms. This app features a clean user interface with support for dark and light themes, and uses modern architectural components such as ViewModel and DataStore for state and settings management.
 
 ### Dependencies
 
