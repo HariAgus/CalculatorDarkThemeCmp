@@ -9,6 +9,15 @@
 
 A simple and elegant calculator application built using Jetpack Compose Multiplatform, supporting both Android and iOS platforms. This app features a clean user interface with support for dark and light themes, and uses modern architectural components such as ViewModel and DataStore for state and settings management.
 
+
+### Features
+- ✅ Basic arithmetic operations (+, −, ×, ÷)
+- 🎨 Dark & Light theme support
+- 🔁 Responsive layout for different screen sizes
+- 💾 State persistence using DataStore
+- 🧠 MVVM architecture with ViewModel
+- 🚀 Multiplatform support: Android & iOS
+
 ### Dependencies
 
 * Jetpack Compose
