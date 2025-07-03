@@ -26,6 +26,13 @@ A simple and elegant calculator application built using Jetpack Compose Multipla
 * Material3
 * ViewModel
 
+### Getting Started
+#### Prerequisites
+1. Android Studio Hedgehog or newer
+2. Kotlin Multiplatform plugin enabled
+3. Xcode (for iOS build)
+4. macOS (for iOS development)
+
 ### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
