@@ -19,12 +19,16 @@ A simple and elegant calculator application built using Jetpack Compose Multipla
 - 🚀 Multiplatform support: Android & iOS
 
 ### Dependencies
-
 * Jetpack Compose
 * Compose Multiplatform
 * DataStore
 * Material3
 * ViewModel
+
+### Tech Stack
+* UI
+* Architecture
+* Multiplatform
 
 ### Getting Started
 #### Prerequisites
