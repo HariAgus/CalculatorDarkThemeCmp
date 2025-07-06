@@ -37,6 +37,14 @@ A simple and elegant calculator application built using Jetpack Compose Multipla
 3. Xcode (for iOS build)
 4. macOS (for iOS development)
 
+### Clone the Project
+```
+https://github.com/HariAgus/CalculatorDarkThemeCmp
+```
+```
+cd CalculatorDarkThemeCmp
+```
+
 ### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
