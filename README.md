@@ -11,12 +11,12 @@ A simple and elegant calculator application built using Jetpack Compose Multipla
 
 
 ### Features
-- ✅ Basic arithmetic operations (+, −, ×, ÷)
-- 🎨 Dark & Light theme support
-- 🔁 Responsive layout for different screen sizes
-- 💾 State persistence using DataStore
-- 🧠 MVVM architecture with ViewModel
-- 🚀 Multiplatform support: Android & iOS
+- Basic arithmetic operations (+, −, ×, ÷)
+- Dark & Light theme support
+- Responsive layout for different screen sizes
+- State persistence using DataStore
+- MVVM architecture with ViewModel
+- Multiplatform support: Android & iOS
 
 ### Dependencies
 * Jetpack Compose
